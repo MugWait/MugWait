@@ -12,10 +12,10 @@
 ### Connect with me:
 
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
 [<img align="left" alt="MugWait | LinkedIn" width="22px" src="https://ua.linkedin.com/in/denys-rudyk-3a4563221/" />][linkedin]
 [<img align="left" alt="MugWait | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk] -->
+
 
 <br />
 
