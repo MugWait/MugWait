@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### Blog posts:
+<!-- ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
 - [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
@@ -62,4 +62,4 @@
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+[vk]: https://vk.com/vladislavkalachov -->
