@@ -37,6 +37,7 @@
 
 
   
+[website]: https://ua.linkedin.com/in/denys-rudyk-3a4563221/
 [linkedin]: https://ua.linkedin.com/in/denys-rudyk-3a4563221/
 [instagram]: https://instagram.com/future_workplace?utm_medium=copy_link
 
