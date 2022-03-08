@@ -42,5 +42,5 @@
 [instagram]: https://instagram.com/future_workplace?utm_medium=copy_link
 
 
-![.](https://github-readme-stats.vercel.app/api?username=MugWait&show_icons=true&theme=dark)<ln>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MugWait&show_icons=true&theme=dark)<ln>
 
