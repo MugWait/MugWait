@@ -41,3 +41,10 @@
 [linkedin]: https://ua.linkedin.com/in/denys-rudyk-3a4563221/
 [instagram]: https://instagram.com/future_workplace?utm_medium=copy_link
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MugWait" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MugWait" />
+</a>
