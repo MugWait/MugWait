@@ -1,12 +1,12 @@
-### Hi there 👋, I'm Vlad
+### Hi there 👋, I'm Denys
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=MugWait)
 
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
 - 🎉 I love to paint and play the guitar
 - 🥅 I am constantly learning new things
-- ⚡️ I love writing an article for https://webtricks-master.ru/
+- ⚡️ I love writing an article for ...(site)
 - 🤹🏽 I like to shoot videos for youtube 
 
 ### Connect with me:
