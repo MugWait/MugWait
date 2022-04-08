@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="myweb" width="22px" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059997.png?token=exp=1646755618~hmac=2899ac43e0aa69268fd5b4eaa688e1ae" />][website]
-[<img align="left" alt="MugWait | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1646755676~hmac=db2cc4f1aaf98287ed58e8069b122d57" />][linkedin]
+[<img align="left" alt="myweb" width="22px" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059997.png?token=exp=1649436827~hmac=252014b5aefc1b0b0105e9cbd4759569" />][website]
+[<img align="left" alt="MugWait | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
 [<img align="left" alt="MugWait | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 
